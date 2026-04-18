@@ -1,6 +1,6 @@
 kind = "web"
 previewPath = "/"
-title = "Social Chat Hornet"
+title = "NudYed"
 version = "1.0.0"
 id = "artifacts/hornet-chat"
 router = "path"
