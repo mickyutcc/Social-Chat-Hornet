@@ -25,7 +25,7 @@ export function Layout({ children }: LayoutProps) {
           <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center shadow-lg shadow-primary/20">
             <Compass className="text-primary-foreground w-6 h-6" />
           </div>
-          <span className="font-bold text-xl tracking-tight text-primary">Hornet</span>
+          <span className="font-bold text-xl tracking-tight text-primary">NudYed</span>
         </div>
         
         <nav className="flex-1 px-4 py-6 space-y-2">
